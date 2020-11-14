@@ -1,2 +1,5 @@
 #+TITLE: Nov 14th, 2020
 
+** add CryFS to nuc2
+** syncthing add encrypted nuc2 folder to spidernest gcp
+**
